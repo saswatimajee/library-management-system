@@ -1,6 +1,6 @@
-Library Management System
+# Library Management System
 
-Local setup
+### Local setup
 
 Admin Login User Id: ```admin@admin.in``` & Password: ```Temp123```
 
